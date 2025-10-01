@@ -9,7 +9,7 @@ printf("Side of square is %d\n",a);
 area=a*a;
 printf("Area of Square is %d\n",area);
 
-\\Volume 
+//Volume 
 volume=a*a*a;
 printf("Volume of Square is %d",volume);
 
