@@ -7,9 +7,9 @@ printf("****************\n");
 printf("*              *\n");
 printf("* Abhishek Raj *\n");
 printf("*              *\n");
-printf("****************\n");
+printf("****************\n\n");
 
 //Display Name in Unique Style. 
-printf("My\n Name\n\t is\n\t\t Abhishek\n\t\t\t Raj");
+printf("Abhishek\n\tRaj");
 getch();
 }
