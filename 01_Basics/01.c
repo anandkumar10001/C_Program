@@ -1,7 +1,8 @@
-#include <stdio.h>
-#include <conio.h>
-void main(){
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
 clrscr();
-printf("First Program of C by Abhisehek Raj");
+printf("Abhishek Raj");
 getch();
 }
