@@ -3,10 +3,10 @@
 void main()
 {
 clrscr();
-printf("******");
-printf("*    *");
-printf("*    *");
-printf("*    *");
-printf("******");
+printf("****************\n");
+printf("*              *\n");
+printf("* Abhishek Raj *\n");
+printf("*              *\n");
+printf("****************");
 getch();
 }
