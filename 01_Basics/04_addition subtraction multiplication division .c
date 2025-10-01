@@ -1,0 +1,24 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a=10, b=5, sum, difference, product, division;
+printf("First number is %d and Second number is %d\n",a,b);
+
+//Sum
+sum=a+b;
+printf("Sum of two number is %d\n",sum);
+
+//Difference 
+difference=a-b;
+printf("Difference of two number is %d\n",difference);
+
+//Product
+product=a*b;
+printf("Product of two number is %d\n",product);
+
+//Division 
+division=a/b;
+printf("Division of two number is %d",division);
+getch();
+}
