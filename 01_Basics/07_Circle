@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+float pi=3.14, r=6, h=5, area, volume;
+printf("Radius of the circle is %f ,height of the circle is %f\n",r,h);
+
+//Area
+area=pi*r*r;
+printf("Area of the circle is %f\n",area);
+
+//Volume 
+volume=pi*r*r*h;
+printf("Volume of the circle is %f",volume);
+getch();
+}
