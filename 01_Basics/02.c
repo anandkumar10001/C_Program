@@ -2,6 +2,9 @@
 #include<conio.h>
 void main()
 {
+//Display Name
+printf("Abhishek Raj");
+
 //Display Name at Centre of Star.
 printf("****************\n");
 printf("*              *\n");
