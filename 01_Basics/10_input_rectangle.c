@@ -6,9 +6,9 @@ int a, b, c, area, volume;
 printf("Enter the value of length of the rectangle ");
 scanf("%d",&a);
 printf("Enter the value of breath of the rectangle ");
-scanf("%d",&a);
+scanf("%d",&b);
 printf("Enter the value of height of the rectangle ");
-scanf("%d",&a);
+scanf("%d",&c);
 
 //Area
 area=a*b;
