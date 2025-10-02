@@ -7,6 +7,6 @@ printf("Class - BCA\n");
 printf("Section - G\n");
 printf("Roll No - \n");
 printf("Subject - Problem Solving Techniques\n");
-printf("Submitted to Ajay Thakur");
+printf("Submitted to Ajay Sir");
 getch();
 }
