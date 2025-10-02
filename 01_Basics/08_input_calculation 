@@ -3,7 +3,10 @@
 void main()
 {
 int a, b, sum, difference, product, division;
-printf("First number is %d and Second number is %d\n",a,b);
+printf("Enter first number ");
+scanf("%d",&a);
+printf("Enter second number ");
+scanf("%d",&b);
 
 //Sum
 sum=a+b;
