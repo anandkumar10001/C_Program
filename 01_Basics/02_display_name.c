@@ -3,7 +3,7 @@
 void main()
 {
 //Display Name
-printf("Abhishek Raj");
+printf("Abhishek Raj\n\n");
 
 //Display Name at Centre of Star.
 printf("****************\n");
