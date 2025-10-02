@@ -2,8 +2,12 @@
 #include<conio.h>
 void main()
 {
-int a=3, b=4, c=5;
+int x=3, y=4, z;
 
-printf("");
+printf("Value before swaping of x =%d, y =%d and z =%d",x,y,z);
+z=x;
+x=y;
+y=z;
+printf("Value after swaping of x =%d, y =%d and z =%d",x,y,z);
 getch();
 }
