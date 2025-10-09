@@ -8,6 +8,10 @@ int age = 18;
 printf("Age : %d",age);
 
 //float
+float flo = 2;
+float at = 12.34567;
+printf("%f",flo);
+printf("%.3f",at);
 //double
 //char
 //void
