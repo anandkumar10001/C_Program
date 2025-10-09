@@ -19,7 +19,10 @@ double pii = 3.141592653589793;
 printf("Value of pi: %lf\n", pi); 
 printf("Value of pi: %.4lf\n", pii);
 
-//char
+//Character 
+char ch = 'A';
+printf("Character: %c\n", ch);
+
 //void
 
 //Derived Data Types
