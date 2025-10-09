@@ -5,7 +5,7 @@ void main()
 //Primary (Basic) Data Types
 //integer 
 int age = 18;
-printf("min : %d",age);
+printf("Age : %d",age);
 
 //float
 //double
