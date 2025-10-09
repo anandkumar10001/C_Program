@@ -25,7 +25,6 @@ printf("min = %d \nmax = %d",min,max);
 //enum
 //struct
 //union
-
-printf("");
+
 getch();
 }
