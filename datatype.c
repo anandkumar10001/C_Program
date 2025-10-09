@@ -3,7 +3,11 @@
 void main()
 {
 //Primary (Basic) Data Types
-//int
+//integer 
+int min = -32,768;
+int max = 32,767;
+printf("min = %d \nmax = %d",min,max);
+
 //float
 //double
 //char
