@@ -4,9 +4,8 @@ void main()
 {
 //Primary (Basic) Data Types
 //integer 
-int min = -32,768;
-int max = 32,767;
-printf("min = %d \nmax = %d",min,max);
+int age = 18;
+printf("min : %d",age);
 
 //float
 //double
