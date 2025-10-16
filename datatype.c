@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+int main()
 {
 //Primary (Basic) Data Types
 //integer 
@@ -37,6 +36,6 @@ printf("Character: %c\n", ch);
 //enum
 //struct
 //union
-
-getch();
+
+return 0;
 }
